@@ -1,21 +1,6 @@
-# College-Notes-Gallery
+# Classroom Portal
 ## A notes management system which helps users to upload,download and manage notes of their particular course. The whole system is coded in core PHP and MySqli
 
-
-
-College-Notes-Gallery ->
-
-![home](https://user-images.githubusercontent.com/16975766/28489136-9c9930a0-6ed8-11e7-85a0-af4d73f63cd7.png)
-
-
-
-College-Notes-Gallery Admin Panel ->
-
-![admin](https://user-images.githubusercontent.com/16975766/28489144-e2c938ae-6ed8-11e7-90f2-f104f34eeabb.png)
-
-
-### Full Demo
-[College Notes Gallery](https://www.youtube.com/watch?v=oJ7rNVoCPG0&t)
 
 ### Requirements 
 
@@ -24,7 +9,7 @@ College-Notes-Gallery Admin Panel ->
 - Ability to write .htaccess file for apache mod_rewrite
 
 ### Installation
-- Upload College-Notes-Gallery to the directory of your choice.
+- Upload Classroom Portal to the directory of your choice.
 - Import MySql Db file to your database software (E.g : Php_My_Admin )
 - Configure connection to your database and server by modifying connection.php file
 - Navigate to the installation in your browser
@@ -40,9 +25,9 @@ password: adminroot
 
 2. User:
 
-username: user
+username: kausar
 
-password: userpass
+password: admin75
 
 ### Main Features
 
@@ -58,14 +43,3 @@ password: userpass
 - Add pagination for notes
 - Add login with facebook and google+ option
 - Add search notes option
-
-### Issues
-
-Please log any issues found in the repository 
-
-### References 
-www.freshdesignweb.com
-Fashion Responsive Slider
-
-### License
-College Notes Gallery is released under the MIT License
